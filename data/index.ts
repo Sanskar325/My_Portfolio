@@ -5,6 +5,7 @@ export const navItems = [
     { name: "Projects", link: "#projects" },
     
     { name: "Contact", link: "#contact" },
+    { name: "My Bio", link: 'https://profilesanskar.netlify.app/' },
     
   ];
   
@@ -79,15 +80,15 @@ export const navItems = [
       des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
       img: "/p1.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "/ui.earth.com",
+      
     },
     {
       id: 2,
       title: "Smart Waste Managnment Website",
       des: "Efficiently manage waste with our smart, user-friendly waste managment platform.",
       img: "/smartwaste.png",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg","/html.svg","/css.svg"],
-      link: "/ui.yoom.com",
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg","/html.svg"],
+      
     },
     {
       id: 3,
@@ -95,7 +96,7 @@ export const navItems = [
       des: "Optimize user experiences and conversions with our stunning functional landing pages.",
       img: "/p3.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/html.svg","/css.svg", "/c.svg"],
-      link: "/ui.aiimg.com",
+      
     },
     {
       id: 4,
@@ -103,7 +104,8 @@ export const navItems = [
       des: "Develop an AHB TO APB bridge ensuring efficient data transfer,lower latency and seamless integration of peripherals in embedded system ",
       img: "/vlsi1.png",
       iconLists: [  "/vlsi.png", "/gsap.svg"],
-      link: "/ui.apple.com",
+      link: 'project.pdf',
+      
     },
     {
       id: 5,
@@ -111,15 +113,18 @@ export const navItems = [
       des: "Showcase of my skills in electronics, coding, and design, featuring projects, blog, and contact info. ",
       img: "/profile.png",
       iconLists: [  "/vlsi.png",  "/gsap.svg","/html.svg","/css.svg"],
-      link: "/ui.apple.com",
+      href: 'https://profilesanskar.netlify.app/',
+      link: 'https://profilesanskar.netlify.app/'
+      
     },
     {
       id: 6,
       title: "To-Do App",
       des: "Create an app which Organize tasks, set reminders, track progress, and stay productive with a simple, intuitive to-do app. ",
       img: "/TO-DO.png",
-      iconLists:  ["/re.svg", "/tail.svg", "/ts.svg","/html.svg","/css.svg" ],
-      link: "/ui.apple.com",
+      iconLists:  ["/re.svg", "/tail.svg", "/ts.svg","/html.svg","/three.svg" ],
+      link: 'https://todolo3t.netlify.app/',
+      href: "https://todolo3t.netlify.app/"
     },
   ];
 

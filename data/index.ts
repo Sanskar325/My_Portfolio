@@ -12,7 +12,7 @@ export const navItems = [
   export const gridItems = [
     {
       id: 1,
-      title: "Currently Lreaning bonding between Vlsi and Java  ",
+      title: "Currently Learning bonding between VLSI and JAVA  ",
       description: "",
       className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
       imgClassName: "w-full h-full",
@@ -32,7 +32,7 @@ export const navItems = [
     },
     {
       id: 3,
-      title: "My tech stack",
+      title: "My Tech stack",
       description: "I constantly try to improve",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
@@ -42,7 +42,7 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "<p> Intrested domain - web Design <br> Cloud Cpmputing <br> App Design </p>",
+      title: "<p> Intrested domain - web Design <br> Cloud Computing <br> App Design </p>",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
@@ -63,7 +63,7 @@ export const navItems = [
     },
     {
       id: 6,
-      title: "Do you want to start a project together?",
+      title: "Do you want to start a Project together?",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",

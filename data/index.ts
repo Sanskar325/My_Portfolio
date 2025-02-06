@@ -32,7 +32,7 @@ export const navItems = [
     },
     {
       id: 3,
-      title: "My Tech stack",
+      title: "My Tech Stack",
       description: "I constantly try to improve",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",

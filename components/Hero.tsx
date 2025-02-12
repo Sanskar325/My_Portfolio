@@ -62,7 +62,7 @@ const Hero = () => {
     
               <a href='https://crash911.netlify.app/'>
                 <MagicButton
-                  title="Scroll to learn more about Me"
+                  title="Click to Play Game"
                   icon={<FaLocationArrow />}
                   position="right"
                 />

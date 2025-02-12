@@ -60,7 +60,7 @@ const Hero = () => {
                 Hi! I&apos;m Sanskar, a Friendly Tech Learner .
               </p>
     
-              <a href='#'>
+              <a href='https://crash911.netlify.app/'>
                 <MagicButton
                   title="Scroll to learn more about Me"
                   icon={<FaLocationArrow />}
